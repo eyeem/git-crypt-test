@@ -1,7 +1,7 @@
 # Hi
 you can read me
 
-# unlock
+# Unlock
 
     brew install git-crypt
     brew install gpg
