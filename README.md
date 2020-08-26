@@ -9,3 +9,8 @@ You can't read it?
 Too bad, follow me on the this mysterious quest, full of adventures and surprises.
 Start [here](steps.MD)
 
+
+# Interested?
+
+Check out more [here](https://github.com/AGWA/git-crypt)
+
